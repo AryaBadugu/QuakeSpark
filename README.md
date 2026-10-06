@@ -16,7 +16,6 @@ A PySpark data engineering pipeline that processes real-time global earthquake d
 ## 📁 Repository Structure
 
 ```text
-├── 124A8006_Arya_CaseStudy.py  # Standalone PySpark case study & benchmark script
 ├── app.py                      # Flask REST API backend & Spark dashboard server
 ├── templates/
 │   └── index.html              # Modern web frontend UI (Glassmorphism + Charts)
